@@ -1,4 +1,4 @@
-# Brain Tumor Classification Model 🧠
+# Brain Tumor Classification Model 
 
 Ce projet implémente un modèle de Deep Learning (CNN) capable de détecter la présence d'une tumeur cérébrale à partir d'images IRM.
 
